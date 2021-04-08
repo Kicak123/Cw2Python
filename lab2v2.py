@@ -122,7 +122,7 @@ print(t)
 
 u = [t, (1, 2, 3, 4, 5)]
 print(u)
-'''
+
 tel = {'jack': 4098,'sape': 4139}
 tel['guido'] = 4127
 print(tel)
@@ -133,5 +133,4 @@ tel['irv'] = 4127
 print(tel)
 
 print(tel.keys())
-
-print(tel.has_key('guido'))
+'''
